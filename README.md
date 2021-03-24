@@ -12,6 +12,7 @@
 3. [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/abs/1506.02142) `Cambridge`
 4. [Bias-Reduced Uncertainty Estimation for Deep Neural Classifiers](https://openreview.net/forum?id=SJfb5jCqKm) `Technion`
 5. [Can You Trust Your Model’s Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift](https://arxiv.org/abs/1906.02530) `Google`
+6. [Pitfalls of In-Domain Uncertainty Estimation and Ensembling in Deep Learning](https://arxiv.org/abs/2002.06470) `Samsung`
 
 ## Selective Prediction 
 1. [Deep Gamblers Learning to Abstain with Portfolio Theory](https://arxiv.org/abs/1907.00208) `Carnegie Mellon`
