@@ -6,3 +6,4 @@
 3. [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719) `Google`
 
 ## Uncertainty
+1. [To Trust Or Not To Trust A Classifier](https://arxiv.org/abs/1805.11783) `Google`
