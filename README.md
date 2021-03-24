@@ -16,7 +16,7 @@
 7. [On Calibration of Modern Neural Networks](https://arxiv.org/abs/1706.04599) `Cornell`
 
 ## Selective Prediction 
-1. [Deep Gamblers Learning to Abstain with Portfolio Theory](https://arxiv.org/abs/1907.00208) `Carnegie Mellon`
+1. [Deep Gamblers: Learning to Abstain with Portfolio Theory](https://arxiv.org/abs/1907.00208) `Carnegie Mellon`
 2. [Selective Classification for Deep Neural Networks](https://arxiv.org/abs/1705.08500) `Technion`
 3. [SelectiveNet: A Deep Neural Network with an Integrated Reject Option](https://arxiv.org/abs/1901.09192) `Technion`
 
