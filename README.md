@@ -1,6 +1,6 @@
 # Papers
 
-## Uncertainty Estimation
+## Uncertainty Estimation in Deep Learning
 1. [To Trust Or Not To Trust A Classifier](https://arxiv.org/abs/1805.11783) `Google`
 2. [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/abs/1612.01474) `DeepMind`
 3. [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/abs/1506.02142) `Cambridge`
