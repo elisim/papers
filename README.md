@@ -39,5 +39,5 @@
 
 ## Curriculum Learning
 1. [On The Power of Curriculum Learning in Training Deep Networks](https://arxiv.org/abs/1904.03626) `Hebrew University`
-2. [Self-Paced Learning for Latent Variable Models][https://papers.nips.cc/paper/2010/file/e57c6b956a6521b28495f2886ca0977a-Paper.pdf] `Stanford`
+2. [Self-Paced Learning for Latent Variable Models](https://papers.nips.cc/paper/2010/file/e57c6b956a6521b28495f2886ca0977a-Paper.pdf) `Stanford`
 
