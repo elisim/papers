@@ -1,11 +1,5 @@
 # Papers
 
-## Vision
-1. [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/abs/2001.07685) `Google`
-2. [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) `Facebook`
-3. [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501) `Google`
-4. [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719) `Google`
-
 ## Uncertainty Estimation
 1. [To Trust Or Not To Trust A Classifier](https://arxiv.org/abs/1805.11783) `Google`
 2. [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/abs/1612.01474) `DeepMind`
@@ -15,7 +9,6 @@
 6. [Pitfalls of In-Domain Uncertainty Estimation and Ensembling in Deep Learning](https://arxiv.org/abs/2002.06470) `Samsung`
 7. [On Calibration of Modern Neural Networks](https://arxiv.org/abs/1706.04599) `Cornell`
 8. [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/abs/1703.04977) `Cambridge`
-
 
 ## Uncertainty Estimation in Regression
 1. [PIVEN: A Deep Neural Network for Prediction Intervals with Specific Value Prediction](https://arxiv.org/abs/2006.05139) `Ben-Gurion University`
@@ -29,7 +22,11 @@
 1. [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) `Google`
 2. [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626) `Google`
 
-
+## Vision
+1. [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/abs/2001.07685) `Google`
+2. [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) `Facebook`
+3. [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501) `Google`
+4. [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719) `Google`
 
 ## Miscellaneous
 1. [On The Power of Curriculum Learning in Training Deep Networks](https://arxiv.org/abs/1904.03626) `Hebrew University`
