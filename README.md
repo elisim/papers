@@ -6,7 +6,7 @@
 3. [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501) `Google`
 4. [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719) `Google`
 
-## Uncertainty
+## Uncertainty Estimation
 1. [To Trust Or Not To Trust A Classifier](https://arxiv.org/abs/1805.11783) `Google`
 2. [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/abs/1612.01474) `DeepMind`
 3. [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/abs/1506.02142) `Cambridge`
@@ -14,6 +14,11 @@
 5. [Can You Trust Your Model’s Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift](https://arxiv.org/abs/1906.02530) `Google`
 6. [Pitfalls of In-Domain Uncertainty Estimation and Ensembling in Deep Learning](https://arxiv.org/abs/2002.06470) `Samsung`
 7. [On Calibration of Modern Neural Networks](https://arxiv.org/abs/1706.04599) `Cornell`
+8. [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/abs/1703.04977) `Cambridge`
+
+
+## Uncertainty Estimation in Regression
+1. [PIVEN: A Deep Neural Network for Prediction Intervals with Specific Value Prediction](https://arxiv.org/abs/2006.05139) `Ben-Gurion University`
 
 ## Selective Prediction 
 1. [Deep Gamblers: Learning to Abstain with Portfolio Theory](https://arxiv.org/abs/1907.00208) `Carnegie Mellon`
