@@ -18,6 +18,7 @@
 5. [Single-Model Uncertainties for Deep Learning](https://arxiv.org/abs/1811.00908) `Facebook`
 6. [Prediction Intervals: Split Normal Mixture from Quality-Driven Deep Ensembles](https://arxiv.org/abs/2007.09670) `Norwegian University`
 7. [Adaptive, Distribution-Free Prediction Intervals for Deep Networks](https://arxiv.org/abs/1905.10634) `Vienna University`
+8. [Conformalized Quantile Regression](https://arxiv.org/abs/1905.03222) `Stanford`
 
 
 ## Selective Prediction 
