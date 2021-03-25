@@ -14,6 +14,8 @@
 1. [PIVEN: A Deep Neural Network for Prediction Intervals with Specific Value Prediction](https://arxiv.org/abs/2006.05139) `Ben-Gurion University`
 2. [Accurate Uncertainties for Deep Learning Using Calibrated Regression](https://arxiv.org/abs/1807.00263)  `Stanford`
 3. [High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach](https://arxiv.org/abs/1802.07167) `Cambridge`
+4. [Quantifying Point-Prediction Uncertainty in Neural Networks via Residual Estimation with an I/O Kernel](https://arxiv.org/abs/1906.00588) `Cognizant`
+5. [Single-Model Uncertainties for Deep Learning](https://arxiv.org/abs/1811.00908) `Facebook`
 
 ## Selective Prediction 
 1. [Deep Gamblers: Learning to Abstain with Portfolio Theory](https://arxiv.org/abs/1907.00208) `Carnegie Mellon`
