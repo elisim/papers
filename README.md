@@ -27,6 +27,7 @@
 2. [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) `Facebook`
 3. [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501) `Google`
 4. [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719) `Google`
+5. [Perturbative Neural Networks](https://arxiv.org/abs/1806.01817) `Cambridge`
 
 ## Miscellaneous
 1. [On The Power of Curriculum Learning in Training Deep Networks](https://arxiv.org/abs/1904.03626) `Hebrew University`
