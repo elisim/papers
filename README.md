@@ -37,6 +37,7 @@
 4. [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719) `Google`
 5. [Perturbative Neural Networks](https://arxiv.org/abs/1806.01817) `Carnegie Mellon`
 
-## Miscellaneous
+## Curriculum Learning
 1. [On The Power of Curriculum Learning in Training Deep Networks](https://arxiv.org/abs/1904.03626) `Hebrew University`
+2. [Self-Paced Learning for Latent Variable Models][https://papers.nips.cc/paper/2010/file/e57c6b956a6521b28495f2886ca0977a-Paper.pdf] `Stanford`
 
