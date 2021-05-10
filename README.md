@@ -9,6 +9,9 @@
 6. [Pitfalls of In-Domain Uncertainty Estimation and Ensembling in Deep Learning](https://arxiv.org/abs/2002.06470) `Samsung`
 7. [On Calibration of Modern Neural Networks](https://arxiv.org/abs/1706.04599) `Cornell`
 8. [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/abs/1703.04977) `Cambridge`
+9. [A Review of Uncertainty Quantification in Deep
+Learning: Techniques, Applications and
+Challenges](https://arxiv.org/abs/2011.06225) `IEEE`
 
 ## Uncertainty Estimation in Regression
 1. [PIVEN: A Deep Neural Network for Prediction Intervals with Specific Value Prediction](https://arxiv.org/abs/2006.05139) `Ben-Gurion University`
