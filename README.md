@@ -44,3 +44,8 @@ Challenges](https://arxiv.org/abs/2011.06225) `IEEE`
 1. [On The Power of Curriculum Learning in Training Deep Networks](https://arxiv.org/abs/1904.03626) `Hebrew University`
 2. [Self-Paced Learning for Latent Variable Models](https://papers.nips.cc/paper/2010/file/e57c6b956a6521b28495f2886ca0977a-Paper.pdf) `Stanford`
 
+## Time-Series
+1. [Time-Series Anomaly Detection Service at Microsoft](https://arxiv.org/abs/1906.03821) `Microsoft`
+
+
+
