@@ -50,6 +50,6 @@ Challenges](https://arxiv.org/abs/2011.06225) `IEEE`
 
 ## Time-Series
 1. [Time-Series Anomaly Detection Service at Microsoft](https://arxiv.org/abs/1906.03821) `Microsoft`
-
+2. [ROCKET: Exceptionally fast and accurate time series classification using random convolutional kernels](https://arxiv.org/abs/1910.13051) `Monash University`
 
 
