@@ -12,6 +12,7 @@
 9. [A Review of Uncertainty Quantification in Deep
 Learning: Techniques, Applications and
 Challenges](https://arxiv.org/abs/2011.06225) `IEEE`
+10. [Epistemic Neural Networks](https://arxiv.org/abs/2107.08924) `DeepMind`
 
 ## Uncertainty Estimation in Regression
 1. [PIVEN: A Deep Neural Network for Prediction Intervals with Specific Value Prediction](https://arxiv.org/abs/2006.05139) `Ben-Gurion University`
