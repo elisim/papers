@@ -28,6 +28,7 @@ Challenges](https://arxiv.org/abs/2011.06225) `IEEE`
 1. [Towards ML Engineering: A Brief History Of TensorFlow Extended (TFX)](https://arxiv.org/abs/2010.02013) `Google`
 2. [Challenges in Deploying Machine Learning: a Survey of Case Studies](https://arxiv.org/abs/2011.09926) `Cambridge`
 3. [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) `Google`
+4. [API design for machine learning software: experiences from the scikit-learn project](https://arxiv.org/abs/1309.0238) `Sklearn team`
 
 ## Selective Prediction 
 1. [Deep Gamblers: Learning to Abstain with Portfolio Theory](https://arxiv.org/abs/1907.00208) `Carnegie Mellon`
