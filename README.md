@@ -46,6 +46,7 @@ Challenges](https://arxiv.org/abs/2011.06225) `IEEE`
 4. [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719) `Google`
 5. [Perturbative Neural Networks](https://arxiv.org/abs/1806.01817) `Carnegie Mellon`
 6. [Contrastive Loss Explained](https://towardsdatascience.com/contrastive-loss-explaned-159f2d4a87ec)
+7. [Do Different Tracking Tasks Require Different Appearance Models?](https://arxiv.org/abs/2107.02156) `BNRist`
 
 ## Curriculum Learning
 1. [On The Power of Curriculum Learning in Training Deep Networks](https://arxiv.org/abs/1904.03626) `Hebrew University`
