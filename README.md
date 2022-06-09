@@ -45,6 +45,7 @@ Challenges](https://arxiv.org/abs/2011.06225) `IEEE`
 3. [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501) `Google`
 4. [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719) `Google`
 5. [Perturbative Neural Networks](https://arxiv.org/abs/1806.01817) `Carnegie Mellon`
+6. [Contrastive Loss Explained](https://towardsdatascience.com/contrastive-loss-explaned-159f2d4a87ec)
 
 ## Curriculum Learning
 1. [On The Power of Curriculum Learning in Training Deep Networks](https://arxiv.org/abs/1904.03626) `Hebrew University`
@@ -55,5 +56,8 @@ Challenges](https://arxiv.org/abs/2011.06225) `IEEE`
 2. [ROCKET: Exceptionally fast and accurate time series classification using random convolutional kernels](https://arxiv.org/abs/1910.13051) `Monash University`
 3. [sktime: A Unified Interface for Machine Learning
 with Time Series](http://learningsys.org/neurips19/assets/papers/sktime_ml_systems_neurips2019.pdf) `Alan Turing Institute`
+
+
+
 
 
